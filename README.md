@@ -1,4 +1,4 @@
-This is a ctf write-up account.
+uh, yeah.
 
 <!---
 r34ch/r34ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
